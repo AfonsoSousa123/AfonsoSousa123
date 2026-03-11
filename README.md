@@ -1,4 +1,4 @@
-# Hi, I'm Afonso Sousa! 👩🏽‍💻🚀
+# Hi, I'm Afonso Sousa! 🚀
 
 ### Computer Engineering Student | Front-end & Mobile Development Enthusiast
 
