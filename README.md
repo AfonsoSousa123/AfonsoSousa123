@@ -15,14 +15,36 @@ Front-End Developer with hands-on experience building responsive web application
 
 ### 🌟 Featured Projects
 
-#### 🌌 [CelestialCapture](link-to-repo)
-A specialized platform for astrophotography. 
-- **Tech:** TypeScript, [Framework]
-- **Key Feature:** High-fidelity image rendering and gallery management.
+#### 🌌 [CelestialCapture](https://github.com/AfonsoSousa123/CelestialCapture)
+*A high-performance web platform for showcasing high-resolution astrophotography.*
 
-#### 💳 [ExpenseTracker](link-to-repo)
-A utility for personal finance management.
-- **Focus:** Clean UI and efficient data handling.
+* **Tech Stack:** ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+* **Key Focus:** **Front-end Optimization.** I focused on image lazy-loading and responsive layouts to ensure a smooth gallery experience across mobile and desktop devices.
+
+---
+
+#### ☕ [Projeto-POO (Barbie Game)](https://github.com/AfonsoSousa123/Projeto-POO-23-24)
+*Object-Oriented Programming (OOP) project built with Greenfoot.*
+
+* **Tech Stack:** ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Greenfoot](https://img.shields.io/badge/Greenfoot-305D3B?style=flat&logo=java&logoColor=white)
+* **Grade:** 🏆 **20 / 20**
+* **Key Focus:** **Architecture & Logic.** This project proves my strong foundation in software design patterns, clean code, and complex logic implementation using Java.
+
+---
+
+#### 🏎️ [F1-SIGA](https://github.com/AfonsoSousa123/F1-SIGA)
+*A simple informative app for Formula 1 fans to see the results positions and more...*
+
+* **Tech Stack:** ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+* **Key Focus:** **Data Integration.** Working with structured data to create a clean, searchable user interface for sports enthusiasts.
+
+---
+
+#### ⌚ [Minimal-Navigator](https://github.com/AfonsoSousa123/Minimal-Navigator)
+*A sleek Wear OS application built to track waypoints efficiently.*
+
+* **Tech Stack:** ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white) ![Wear OS](https://img.shields.io/badge/Wear_OS-4285F4?style=flat&logo=wear-os&logoColor=white)
+* **Key Focus:** **Mobile/Wearable UX.** This project demonstrates my ability to build for constrained hardware and small screens, focusing on performance and glanceable UI.
 
 ---
 
