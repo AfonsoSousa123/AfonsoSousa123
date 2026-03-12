@@ -1,3 +1,5 @@
+<a id="top"></a>
+
 # Hi, I'm Afonso Sousa! 🚀
 
 ### Computer Engineering Student | Front-end & Mobile Development Enthusiast
@@ -91,7 +93,7 @@ Front-End Developer with hands-on experience building responsive web application
 
 <br />
 <p align="right">
-  <a href="#readme">
+  <a href="#top">
     <img src="https://img.shields.io/badge/⬆️_Back_to_top-238636?style=for-the-badge" alt="Back to top" />
   </a>
 </p>
