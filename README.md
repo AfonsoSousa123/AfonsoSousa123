@@ -88,3 +88,11 @@ Front-End Developer with hands-on experience building responsive web application
 
 ### 📫 Let's Connect!
 [LinkedIn](https://www.linkedin.com/in/afonso-he-sousa/) | [Portfolio](https://afonso-sousa-cv.onrender.com/) | [Email](mailto:afonso.he.sousa@gmail.com)
+
+<br />
+<p align="right">
+  <a href="#readme">
+    <img src="https://img.shields.io/badge/⬆️_Back_to_top-238636?style=for-the-badge" alt="Back to top" />
+  </a>
+</p>
+
